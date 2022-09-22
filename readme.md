@@ -1,12 +1,13 @@
 # Université de Lomé | Map | QGIS 
 
-[x] Manipulate Togo Map and work on University of Lome polygone
-[] Load the Map in android studio 
-[] Import different informations
+- [x] Manipulate Togo Map and work on University of Lome polygone
+
+- [] Load the Map in android studio 
+- [] Import different informations
     - building
     - road
     - location
-[]  Build Algorithm A* to leave point A to point B
+- []  Build Algorithm A* to leave point A to point B
 
 ### How to display QGIS map in android application..?
 To show a custom generated map from QGIS in an android application you can do the following:
